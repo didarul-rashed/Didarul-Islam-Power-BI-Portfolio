@@ -1,7 +1,5 @@
 # Didarul-Islam-Power-BI-Portfolio
 
-# Didarul-Islam-Power-BI-Portfolio
-
 ## Dashboard Overview
 
 <table>
